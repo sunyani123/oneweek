@@ -1,0 +1,35 @@
+功能点：
+
+1、路由
+定义路由的两种方式
+路由传参
+定义 otherwise
+
+2、自定义指令：
+tab切换
+选项卡
+轮播
+购物车
+
+
+3、mock 数据
+使用gulp-connect
+使用gulp-server
+使用json-server
+等中间件创建webserver
+
+4、用angularjs服务 跨域访问数据源
+
+
+5、
+完成效果图静态页面的制作
+使用gulp 自动化构建工具 压缩合并 javascript/css 文件
+将项目用git 上传到github
+
+
+注意项；
+1、功能点实现
+2、项目目录结构、代码命名及模块化 的规范性
+
+
+
